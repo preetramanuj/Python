@@ -1,0 +1,14 @@
+a=1
+d=100
+b=0
+while(a<=d):
+    num=a
+    l=len(str(a))
+    s=0
+    while(num>0):
+        b=num%10
+        s=s+(b**l)
+        num=num//10
+    if(s==a):
+        print(a)
+    a+=1
