@@ -31,8 +31,3 @@ for i in range(len(d)):
         if(d[i]>d[j]):
             d[j],d[i]=d[i],d[j]
 print("Sorted odd numbers:",d)
-
-
-
-
-
