@@ -1,4 +1,5 @@
 
+
 def sumation():
     a=int(input("Enter number you entered: "))
     sum=0
@@ -41,7 +42,6 @@ def divison():
     print(div_list)
     return div
 
-
 choice=input("Enter your choice: ")
 while (choice!="5"):
     print("Enter Coice(1.sumation/n2.subtraction/n3.multiplication /n4.divison): ")
@@ -59,6 +59,7 @@ while (choice!="5"):
         print("Invalid choice")
 
         
+
 
 
 

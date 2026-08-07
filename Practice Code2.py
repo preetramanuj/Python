@@ -38,11 +38,3 @@ elif(carry_bag=="No" or carry_bag == "NO" or carry_bag == "no"):
     print("Your Grand Total is",grand_total,":")
 else:
     print("Invalid Choice")
-
-
-
-
-    
-
-
-                 

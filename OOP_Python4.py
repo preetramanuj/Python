@@ -1,3 +1,4 @@
+
 #without parameter function with return type
 def student_num():
     a=[]
@@ -5,3 +6,4 @@ def student_num():
         num=int(input("Enter the number of student: "))
         a.append(num)
     return a
+

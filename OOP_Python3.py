@@ -1,3 +1,4 @@
+
 # Function to get student names
 def Student_name(num):
     a=[]
@@ -5,4 +6,5 @@ def Student_name(num):
         num=int(input("Enter the name of student: "))
         a.append(num)
     return a
+
 print(Student_name("num"))
