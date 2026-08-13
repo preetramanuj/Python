@@ -1,5 +1,3 @@
-
-
 def sumation():
     a=int(input("Enter number you entered: "))
     sum=0
@@ -62,9 +60,3 @@ while (choice!="5"):
         break
     else:
         print("Invalid choice")
-
-        
-
-
-
-
