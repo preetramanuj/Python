@@ -1,0 +1,1 @@
+f=open("mydata.text","x")
